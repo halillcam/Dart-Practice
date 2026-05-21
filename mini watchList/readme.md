@@ -1,0 +1,1 @@
+Bu pratik çalışmasında Search ve filtreleme pratikleri yaptım

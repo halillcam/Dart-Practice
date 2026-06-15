@@ -1,0 +1,1 @@
+Bu pratikte object döndüren methodları işledim amacım Bu Pratikte Object döndüren methodların Çalışma biçimlerini Öğrenmekti ve Bunları yapabilmekti.

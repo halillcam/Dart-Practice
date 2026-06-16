@@ -1,0 +1,37 @@
+[
+   {
+      "movieName": "Interstellar",
+      "imdbRating": 8.7,
+      "releaseYear": 2014,
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan"
+   },
+   {
+      "movieName": "Inception",
+      "imdbRating": 8.8,
+      "releaseYear": 2010,
+      "genre": "Action",
+      "director": "Christopher Nolan"
+   },
+   {
+      "movieName": "The Matrix",
+      "imdbRating": 8.7,
+      "releaseYear": 1999,
+      "genre": "Sci-Fi",
+      "director": "Lana Wachowski, Lilly Wachowski"
+   },
+   {
+      "movieName": "The Dark Knight",
+      "imdbRating": 9.0,
+      "releaseYear": 2008,
+      "genre": "Action",
+      "director": "Christopher Nolan"
+   },
+   {
+      "movieName": "Pulp Fiction",
+      "imdbRating": 8.9,
+      "releaseYear": 1994,
+      "genre": "Crime",
+      "director": "Quentin Tarantino"
+   }
+]

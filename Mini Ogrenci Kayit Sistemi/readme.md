@@ -1,0 +1,1 @@
+Bu çalışmada Object Döndüren Methodlar konusunu tekrar ettim.

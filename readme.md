@@ -1,0 +1,1 @@
+Bu pratik çalışmasında önceki konuları (CRUD) işlemlerini tekrar ettim.

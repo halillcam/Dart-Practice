@@ -1,0 +1,1 @@
+Bu pratikte CRUD işlemleri dışında filtreleme ve belirli özellikleri değiştirme konularını pratik ettim
